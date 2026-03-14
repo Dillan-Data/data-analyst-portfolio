@@ -1,0 +1,40 @@
+Biodiversity Conservation Analysis Report
+Introduction
+
+Understanding biodiversity risk is essential for effective conservation planning. Using National Park Service datasets, this analysis investigates patterns in endangered and protected species across multiple parks.
+
+Methodology
+
+Data preparation involved:
+
+Standardizing column structures
+
+Handling missing conservation labels
+
+Removing duplicates
+
+Engineering a protection indicator variable
+
+Merging observation and species datasets
+
+Exploratory analysis was then conducted using Python visualization libraries.
+
+Analysis & Findings
+
+The analysis revealed that conservation pressure is not evenly distributed. Certain species categories exhibit significantly higher protection rates, suggesting ecological vulnerability.
+
+Park-level analysis identified biodiversity hotspots where protected species observations are concentrated, indicating potential priority areas for conservation monitoring.
+
+Additionally, a relatively small subset of species dominates protected observation counts, highlighting opportunities for targeted ecological tracking.
+
+Limitations
+
+Observation counts do not represent population size.
+
+Dataset lacks longitudinal depth for trend analysis.
+
+Missing conservation statuses were interpreted as “No Intervention.”
+
+Conclusion
+
+This project demonstrates how data analysis can support environmental decision-making. Analytical insights allow conservation resources to be prioritized toward the species and parks with the highest ecological impact.

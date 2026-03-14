@@ -1,0 +1,31 @@
+OrderID,Date,Customer,Product,Quantity,UnitPrice,TotalPrice,Currency
+A001,03/01/2024,NorthTech,Keyboard,15,$29.99,$449.85,USD
+A002,05/01/2024,BlueWave,Mouse,22,$19.50,$429.00,USD
+A003,07/01/2024,Digiplus,Monitor,5,$149.99,$749.95,USD
+A004,10/01/2024,MacroSoft,Webcam,12,$39.99,$479.88,USD
+A005,12/01/2024,NorthTech,Headset,18,$45.00,$810.00,USD
+A006,14/01/2024,BlueWave,Mousepad,30,$9.99,$299.70,USD
+A007,17/01/2024,Digiplus,Laptop Stand,10,$34.99,$349.90,USD
+A008,19/01/2024,MacroSoft,Keyboard,20,$29.99,$599.80,USD
+A009,22/01/2024,NorthTech,Monitor,4,$149.99,$599.96,USD
+A010,24/01/2024,BlueWave,USB Hub,25,$14.99,$374.75,USD
+A011,02/02/2024,Digiplus,Laptop Stand,7,$34.99,$244.93,USD
+A012,05/02/2024,MacroSoft,Headset,10,$45.00,$450.00,USD
+A013,07/02/2024,NorthTech,Mouse,19,$19.50,$370.50,USD
+A014,10/02/2024,BlueWave,Webcam,16,$39.99,$639.84,USD
+A015,13/02/2024,Digiplus,Keyboard,12,$29.99,$359.88,USD
+A016,18/02/2024,MacroSoft,Monitor,3,$149.99,$449.97,USD
+A017,20/02/2024,NorthTech,USB Hub,15,$14.99,$224.85,USD
+A018,23/02/2024,BlueWave,Mousepad,40,$9.99,$399.60,USD
+A019,26/02/2024,Digiplus,Mouse,22,$19.50,$429.00,USD
+A020,28/02/2024,MacroSoft,Keyboard,9,$29.99,$269.91,USD
+A021,03/03/2024,NorthTech,Headset,14,$45.00,$630.00,USD
+A022,05/03/2024,BlueWave,Monitor,6,$149.99,$899.94,USD
+A023,08/03/2024,Digiplus,Mousepad,35,$9.99,$349.65,USD
+A024,12/03/2024,MacroSoft,Webcam,11,$39.99,$439.89,USD
+A025,15/03/2024,NorthTech,Laptop Stand,8,$34.99,$279.92,USD
+A026,18/03/2024,BlueWave,Keyboard,10,$29.99,$299.90,USD
+A027,20/03/2024,Digiplus,Mouse,18,$19.50,$351.00,USD
+A028,23/03/2024,MacroSoft,Headset,13,$45.00,$585.00,USD
+A029,26/03/2024,NorthTech,USB Hub,12,$14.99,$179.88,USD
+A030,29/03/2024,BlueWave,Monitor,5,$149.99,$749.95,USD
