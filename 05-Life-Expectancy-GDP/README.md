@@ -67,12 +67,15 @@ Displays the distribution and variability of life expectancy across countries.
 
 Facet Scatter Plots – GDP vs Life Expectancy
 Shows the relationship between economic output and longevity using a logarithmic GDP scale.
+![Project Visual](<IMAGES/GDP Vs Life Expectancy.png>)
 
 Facet Line Plots – GDP Over Time
 Highlights economic growth patterns and volatility by country.
+![Project Visual](<IMAGES/GDP Over Time By Country (Log Scale).png>)
 
 Facet Line Plots – Life Expectancy Over Time
 Illustrates long-term health improvements and cross-country differences.
+![Project Visual](<IMAGES/Life Expectancy Over Time By Country.png>)
 
 Key Insights
 
