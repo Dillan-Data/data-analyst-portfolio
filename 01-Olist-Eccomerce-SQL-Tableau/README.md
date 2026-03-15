@@ -120,3 +120,6 @@ Author
 Dillan Maart
 
 Data Analysis Portfolio Project
+
+![Project Visual](<01-Olist-Eccomerce-SQL-Tableau/TABLEAU/Olist_project Visual.png>)
+
