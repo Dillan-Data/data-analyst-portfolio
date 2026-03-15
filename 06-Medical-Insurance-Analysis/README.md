@@ -19,3 +19,4 @@ This project analyzes U.S. medical insurance costs data to uncover key patterns 
 - Smokers pay almost 4x more than non-smokers.
 - Insurance costs increase steadily with age, especially after 50.
 - The Southeast region shows the highest average insurance costs.
+![Project Visual](<IMAGES/Medical Insurance Report Dashboard Dillan Maart_page-0001.jpg>)
