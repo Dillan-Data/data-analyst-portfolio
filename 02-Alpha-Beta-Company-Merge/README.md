@@ -199,6 +199,10 @@ Customer segmentation
 
 Currency conversion using real historical FX rates
 
+![Project Visual](<Dashboard/Cover page 1.png>)
+![Project Visual](<Dashboard/Cover Page 2.png>)
+![Project Visual](<Dashboard/Cover Page 2.png>)
+
 💼 Contact
 
 If you’d like a custom sales consolidation, dashboard, or reporting solution:
