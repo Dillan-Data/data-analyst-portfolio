@@ -120,3 +120,6 @@ Author
 Dillan Maart
 
 Data Analysis Portfolio Project
+
+![Project Visual](<TABLEAU/Olist_project Visual.png>)
+

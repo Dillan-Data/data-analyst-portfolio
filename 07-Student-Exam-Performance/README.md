@@ -80,4 +80,6 @@ Data Analyst | Python Enthusiast | Storyteller of Data
 *Cape Town, South Africa*  
 
 📧 Contact: dillan.maart@gmail.com 
-🌐 Portfolio: [link to your GitHub or portfolio site when ready]  
+🌐 Linkedin: https://www.linkedin.com/in/dillan-maart-091976171   
+
+![Project Visual](<IMAGES/Student Performance Dashboard Dillan Maart_page-0001.jpg>)

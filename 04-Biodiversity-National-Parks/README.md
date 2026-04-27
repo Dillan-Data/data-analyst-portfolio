@@ -56,6 +56,13 @@ Cleaned datasets
 Merged analytical dataset
 
 Python visualizations
+![Project Visual](<VISUALS/chart_category_risk.png>)
+![Project Visual](<VISUALS/chart_conservation_status_distribution.png>)
+![Project Visual](<VISUALS/chart_park_protection.png>)
+![Project Visual](<VISUALS/chart_protected_parks.png>)
+![Project Visual](<VISUALS/chart_protected_species_count.png>)
+![Project Visual](<VISUALS/chart_protection_rate_percentage.png>)
+![Project Visual](<VISUALS/chart_top_observed_protected_species.png>)
 
 Executive presentation with transcript
 

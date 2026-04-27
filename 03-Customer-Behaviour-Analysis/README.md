@@ -148,8 +148,9 @@ Interactive Power BI dashboard
 PDF summary report
 
 Dashboard screenshots for portfolio use
-
-Use Cases
+![Project Visual](<IMAGES/Customer Purchase Behavior & Sampling Analysis_pages-to-jpg-0001.jpg>)
+![Project Visual](<IMAGES/Customer Purchase Behavior & Sampling Analysis_pages-to-jpg-0002.jpg>)
+![Project Visual](<IMAGES/Customer Purchase Behavior & Sampling Analysis_pages-to-jpg-0003.jpg>)
 
 This analysis is relevant for:
 
